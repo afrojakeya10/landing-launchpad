@@ -54,3 +54,36 @@
   margin-top: 0;
   margin-bottom: 50px;
 }
+
+
+
+/*action section*/
+
+.action{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  gap: 200px;
+  margin-bottom: 50px;
+}
+
+.action-btn{
+
+   background-color: #4E47FF;
+   border: none;
+   
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    
+    width: 200px;
+    
+}
+
+.action-img{
+border-radius: 20px;
+width: 300px;
+height: 250px;
+
+}
