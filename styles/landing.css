@@ -229,3 +229,49 @@ h2 {
   margin-top: 10px;
   border-radius: 20px;
  }
+
+
+ /*form-section*/
+ .form{
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+ }
+
+.form-section{
+  margin-top: 100px;
+}
+
+.left-form{
+  font-weight: bolder;
+  font-size: 4em;
+}
+ .form-section label{
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  
+ }
+
+ .form-section input,textarea{
+  width: 60%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid rgb(181, 179, 179);
+  border-radius: 5px;
+  
+ }
+
+ .form-btn{
+   background-color: #4E47FF;
+   border: none;
+   font-size: 15px;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    padding: 5px;
+    width: 300px;
+    margin-top: 20px;
+    
+ }
