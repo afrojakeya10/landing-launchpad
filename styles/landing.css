@@ -275,3 +275,27 @@ h2 {
     margin-top: 20px;
     
  }
+
+ /*foot section*/
+
+
+ .foot{
+  text-align: center;
+  margin-top: 100px;
+ }
+ .foot ul a{
+  text-decoration: none;
+  color: gray;
+  margin: 0 15px;
+ }
+
+ .foot-heading{
+  font-size: 4em;
+  font-weight: bold;
+  color: #4b66f2;
+ }
+
+ .foot-text{
+   font-size: 1rem;
+   color: rgb(168, 166, 166); 
+ }
